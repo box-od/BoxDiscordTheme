@@ -1,0 +1,17 @@
+/**
+* @name Box
+* @author Box#9767
+* @description Box's simple updated wekly discord theme.
+* @version 1.0.0
+* @link 
+*/
+
+
+
+@import url(https://box-od.github.io/DiscordAddons/Themes/Boxs.theme.css/Boxs.theme.css);
+
+:root {
+    --box-bg: #000320;
+    --box-cats: #7c162e;
+    --box-names: #2a3b49;
+}
